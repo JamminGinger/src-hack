@@ -1,0 +1,7 @@
+1) replace first post with "foobar"
+2) replace first post with actual HTML for new article
+3) add new post above first post
+4) scrape keyword
+5) get article from api
+6) insert article into post
+7) put everything into a script
